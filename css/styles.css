@@ -91,6 +91,9 @@ p {
     transform: rotate(0);
     width: 60%;
   }
+  .nav-link {
+    text-align: right;
+  }
 }
 
 /* Features */
